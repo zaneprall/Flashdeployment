@@ -388,7 +388,7 @@ echo Close Window to Cancel
 pause
 echo -
 echo -
-wmic computersystem where name="%computername%" call joindomainorworkgroup name="BOISE"
+wmic computersystem where name="%computername%" call joindomainorworkgroup name="location8"
 echo -
 goto wrapup
 
